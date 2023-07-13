@@ -1,2 +1,2 @@
 # three_routes_framer_text
-Created with CodeSandbox
+Forked from Paul, I'm add some motion between pages transitions and playing with easings
